@@ -30,11 +30,13 @@
 
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/yourusername/weather-journal.git
-cd weather-journal
+git clone https://github.com/MEO-KB-lessons/Weather-journal-CSharp.git
+cd Weather-journal-CSharp
 
 # Скомпилируйте приложение
-dotnet build
+dotnet build weather_journal.cs
 
 # Запустите
-dotnet run
+dotnet run weather_journal.cs
+
+
