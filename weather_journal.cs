@@ -1,3 +1,4 @@
+// Weather-journal application
 using System; // Базовые типы и функции (консоль, исключения, даты)
 using System.IO; // Работа с файлами (чтение/запись)
 using System.Net.Http; // Отправка HTTP-запросов к API погоды и геокодинга
